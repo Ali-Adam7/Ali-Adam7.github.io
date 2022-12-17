@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5499040d.css",
+    "main.js": "/static/js/main.7cf6cb25.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img4.png": "/static/media/project-img4.3ebb098d1a3ab587e862.png",
+    "static/media/Ali_Adam_Resume.pdf": "/static/media/Ali_Adam_Resume.bbc16013c251e7e3b497.pdf",
+    "static/media/back.jpg": "/static/media/back.8572e9664267e38345cd.jpg",
+    "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img3.png": "/static/media/project-img3.ec8bf70eaa812d8003f0.png",
+    "static/media/a4.jpg": "/static/media/a4.4c135051fe2b4455ded1.jpg",
+    "static/media/project-img2.png": "/static/media/project-img2.31e3262213bff050075a.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img1.png": "/static/media/project-img1.72f20568778e85af0ddd.png",
+    "static/media/York.png": "/static/media/York.7cd1f889e2d65645c99b.png",
+    "static/media/OPG.jpg": "/static/media/OPG.5df4aa64dc77ead1bd94.jpg",
+    "static/media/nav-icon2.png": "/static/media/nav-icon2.be7d3d84a2cee2858adb.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.5499040d.css.map": "/static/css/main.5499040d.css.map",
+    "main.7cf6cb25.js.map": "/static/js/main.7cf6cb25.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5499040d.css",
+    "static/js/main.7cf6cb25.js"
+  ]
+}
